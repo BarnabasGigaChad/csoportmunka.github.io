@@ -3,7 +3,7 @@
 }
 
 .kezdolap {
-    background-image: url();
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(indexbg.jpg); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
