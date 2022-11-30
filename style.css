@@ -4,6 +4,10 @@
 
 .kezdolap {
     background-image: url();
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .megelozes {
@@ -18,10 +22,20 @@
     background-image: url();
 }
 
+.kovetkezmenyek {
+    background-image: url();
+}
+
 nav {
     display: block;
     text-align: right;
     font-weight: bold;
+    border-radius: 8px;
+    margin-top: 1%;
+}
+
+nav a {
+    margin-right: 15px;
 }
 
 a {
@@ -31,4 +45,5 @@ a {
 
 a:hover {
     color: black;
+    text-decoration: underline;
 }
