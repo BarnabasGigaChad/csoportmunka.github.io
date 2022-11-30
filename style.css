@@ -10,6 +10,14 @@
     background-attachment: fixed;
 }
 
+.kezdolap p {
+    color: white;
+}
+
+.kezdolap nav a {
+    color: white;
+}
+
 .megelozes {
     background-image: url();
 }
@@ -23,7 +31,7 @@
 }
 
 .kovetkezmenyek {
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url(kovetkezmenyekbg.png);
+    background-image: url(kovetkezmenyekbg.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
