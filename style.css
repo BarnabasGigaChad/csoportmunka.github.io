@@ -23,7 +23,11 @@
 }
 
 .kovetkezmenyek {
-    background-image: url();
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), url(kovetkezmenyekbg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 nav {
