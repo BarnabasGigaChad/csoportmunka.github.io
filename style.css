@@ -79,3 +79,17 @@ a:hover {
     color: black;
     text-decoration: underline;
 }
+.kcim{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+}
+#kp{
+    color: white;
+    font-size: 25px;
+}
+#pic1{
+float: left;
+width: 700px;
+}
