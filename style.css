@@ -18,16 +18,36 @@
     color: white;
 }
 
-.megelozes {
-    background-image: url();
-}
-
 .ok {
-    background-image: url();
+    background-image: url(okbg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .sulyossag {
-    background-image: url();
+    background-image: url(sulyossagbg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.megelozes {
+    background-image: url(megelozesbg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.megelozes p {
+    color: white;
+}
+
+.megelozes nav a {
+    color: white;
 }
 
 .kovetkezmenyek {
