@@ -87,13 +87,13 @@ a:hover {
     text-decoration: underline;
 }
 .kcim{
-    color: white;
+    color: black;
     text-align: center;
     text-decoration: underline;
     font-size: 50px;
 }
 #kp{
-    color: white;
+    color: black;
     font-size: 30px;
 }
 #pic1{
@@ -108,7 +108,19 @@ margin: 0px 15px;
     color: white;
     text-decoration: underline;
 }
-.kmain{
+.underpic{
     background-color: rgba(50, 50, 50, 0.5);
-    margin: 0px 250px ;
+    width: 716px;
+    float: left;
+    text-align: center;
+    padding: 15px;
+    /* margin-left: 0px; */
+    overflow: hidden;
+    font-size: 15px;
+}
+
+.textblack {
+    font-size: 20pt;
+    text-align: justify;
+    margin-left: 10px;
 }
