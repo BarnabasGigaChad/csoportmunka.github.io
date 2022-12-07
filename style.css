@@ -99,6 +99,7 @@ a:hover {
 #pic1{
 float: left;
 width: 700px;
+margin: 0px 15px;
 }
 .klink{
     font-size: 20px;
