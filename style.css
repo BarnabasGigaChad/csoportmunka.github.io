@@ -87,9 +87,20 @@ a:hover {
 }
 #kp{
     color: white;
-    font-size: 25px;
+    font-size: 30px;
 }
 #pic1{
 float: left;
 width: 700px;
+}
+.klink{
+    font-size: 20px;
+}
+.klink:hover{
+    color: white;
+    text-decoration: underline;
+}
+.kmain{
+    background-color: rgba(50, 50, 50, 0.5);
+    margin: 0px 250px ;
 }
