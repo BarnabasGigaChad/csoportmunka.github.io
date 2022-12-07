@@ -99,7 +99,7 @@ a:hover {
 #pic1{
 float: left;
 width: 700px;
-margin: 0px 15px;
+margin: 5px 15px;
 }
 .klink{
     font-size: 20px;
@@ -108,19 +108,13 @@ margin: 0px 15px;
     color: white;
     text-decoration: underline;
 }
-.underpic{
-    background-color: rgba(50, 50, 50, 0.5);
-    width: 716px;
-    float: left;
-    text-align: center;
-    padding: 15px;
-    /* margin-left: 0px; */
-    overflow: hidden;
-    font-size: 15px;
-}
-
 .textblack {
     font-size: 20pt;
     text-align: justify;
     margin-left: 10px;
+    
+}
+.Zsmain{
+    background-color: rgba(50, 50, 50, 0.5);
+    color: white;
 }
