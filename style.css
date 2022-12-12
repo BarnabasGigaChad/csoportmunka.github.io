@@ -108,21 +108,30 @@ a:hover {
 #pic1{
 float: left;
 width: 700px;
-margin: 5px 15px;
+
 }
 .klink{
     font-size: 13pt;
 }
 .klink:hover{
-    color: white;
     text-decoration: underline;
 }
 .kmain{
     background-color: rgba(50, 50, 50, 0.5);
-    padding: 0px 0px 37px 0px;
+    padding: 0px 0px 75px 0px;
 }
 
 h1 {
     text-align: center;
     text-decoration: underline;
+}
+.kepkeret{
+    width: 700px;
+    float: left;
+    text-align: center;
+    padding: 0px 0px 10px ;
+    margin: 10px 15px;
+    overflow: hidden;
+   background-color: white;
+  font-weight: bold;
 }
