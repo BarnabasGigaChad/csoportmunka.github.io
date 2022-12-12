@@ -4,7 +4,7 @@
  ### Pilter Barnabás József
  - kezdőlap
  - megelőzése
- - okai
+ - fogalma
  - Readme
 
  ### Zsigmond Attila László
