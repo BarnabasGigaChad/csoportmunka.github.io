@@ -93,7 +93,7 @@ a:hover {
     font-size: 50px;
 }
 #kp{
-    color: black;
+    color: white ;
     font-size: 30px;
 }
 #pic1{
@@ -108,13 +108,7 @@ margin: 5px 15px;
     color: white;
     text-decoration: underline;
 }
-.textblack {
-    font-size: 20pt;
-    text-align: justify;
-    margin-left: 10px;
-    
-}
-.Zsmain{
+.kmain{
     background-color: rgba(50, 50, 50, 0.5);
-    color: white;
+    padding: 0px 0px 37px 0px;
 }
