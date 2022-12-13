@@ -25,6 +25,10 @@
     color: black;
 }
 
+.kezdolapkeret {
+    padding: 0 100px 0 100px;
+}
+
 .fogalom {
     background-image: url(okbg.png);
     background-size: cover;
@@ -125,6 +129,15 @@ h1 {
     text-align: center;
     text-decoration: underline;
 }
+
+.feketeh1 {
+    color: black;
+}
+
+.feherh1 {
+    color: white;
+}
+
 .kepkeret{
     width: 700px;
     float: left;
@@ -134,4 +147,10 @@ h1 {
     overflow: hidden;
    background-color: white;
   font-weight: bold;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 16pt;
 }
