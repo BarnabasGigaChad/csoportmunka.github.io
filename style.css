@@ -106,11 +106,10 @@ a:hover {
     font-size: 50px;
 }
 #kp{
-    color: white ;
-    font-size: 30px;
+    font-size: 25px; 
+    text-align: center;
 }
 #pic1{
-float: left;
 width: 700px;
 
 }
@@ -119,10 +118,6 @@ width: 700px;
 }
 .klink:hover{
     text-decoration: underline;
-}
-.kmain{
-    background-color: rgba(50, 50, 50, 0.5);
-    padding: 0px 0px 75px 0px;
 }
 
 h1 {
@@ -153,4 +148,16 @@ p {
     color: black;
     text-align: center;
     font-size: 16pt;
+}
+sp{
+    text-align: center;
+    font-size: 25px;
+}
+Table, tr, td{
+    margin: 0px auto;
+    font-size: 25px;
+    border: 3px solid black ;
+     border-collapse: collapse;
+     padding: 2px 10px;
+     text-align: center;
 }
