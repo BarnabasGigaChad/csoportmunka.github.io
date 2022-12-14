@@ -35,7 +35,6 @@
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    padding: 0 50px 0 50px;
 }
 
 .fogtext {
@@ -47,7 +46,7 @@
 }
 
 .sulyossag {
-    background-image: url(sulyossagbg.jpg);
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(sulyossagbg.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -104,12 +103,11 @@ a:hover {
     color: black;
     text-align: center;
     text-decoration: underline;
-    font-size: 24pt;
+    font-size: 50px;
 }
 #kp{
-    font-size: 16pt; 
+    font-size: 25px; 
     text-align: center;
-    padding-top: 10px;
 }
 #pic1{
 width: 700px;
@@ -142,8 +140,8 @@ h1 {
     padding: 0px 0px 10px ;
     margin: 10px 15px;
     overflow: hidden;
-    background-color: white;
-    font-weight: bold;
+   background-color: white;
+  font-weight: bold;
 }
 
 p {
@@ -158,12 +156,8 @@ sp{
 Table, tr, td{
     margin: 0px auto;
     font-size: 25px;
-    border: 3px solid black ;
+    border: 5px solid black ;
      border-collapse: collapse;
-     padding: 2px 10px;
+     padding: 1px 25px;
      text-align: center;
-}
-
-.kmain {
-    padding: 0 50px 0 50px;
 }
