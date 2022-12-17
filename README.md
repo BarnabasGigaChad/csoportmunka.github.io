@@ -1,9 +1,9 @@
 # Internetes zaklatás
 
-## Munka megosztás
+## Munkamegosztás
  ### Pilter Barnabás József
  - kezdőlap
- - megelőzése
+ - segítség
  - fogalma
  - Readme
 
@@ -12,4 +12,4 @@
  - következmények
 
 ## Weboldal bemutatása
-Ennek a weboldalnak 5 lapja lesz, amin belül 4-en tartalom, mint például az fogalma, a megelőzése, a súlyossága, illetve a következményei az internetes zaklatásnak. Az 5.-ik az kezdőlap lesz amin csak egy rövid bevezető lesz.
+Ennek a weboldalnak 5 lapja lesz, amin belül 4-en tartalom, mint például az fogalma, a segítség, a súlyossága, illetve a következményei az internetes zaklatásnak. Az 5.-ik az kezdőlap lesz amin csak egy rövid bevezető lesz.
