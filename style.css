@@ -31,7 +31,7 @@
 }
 
 .video {
-    
+    text-align: center;
 }
 
 .fogalom {
@@ -44,6 +44,10 @@
 
 .fogalom h1 {
     font-size: 25pt;
+}
+
+.fogalom p {
+    font-size: 20pt;
 }
 
 .fogtext {
